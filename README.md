@@ -11,5 +11,11 @@ DateIn is a digital platform that allows users to connect and communicate and fi
 
 # Team Members:
 
+Meet Vora – 40155271
+James Bitharas – 26637175
+Samuel Collette – 40175048
+Brandon Dam - 40175675
+
+
 Meet Vora @Itsmeeeet
 
