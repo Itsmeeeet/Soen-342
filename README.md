@@ -4,6 +4,16 @@
 
 DateIn is a digital platform that allows users to connect and communicate and find potential partners. It typically uses a combination of user-provided information, such as interests and preferences, and location-based data to match users. The app allows users to create a profile, browse through potential matches, and initiate contact with those they are interested in. The app interface is designed to be simple and easy to use, allowing users to quickly and easily find potential partners. DateIn includes features like "swiping" or "liking" profiles, and safety features to report or block inappropriate behavior. The idea behind dating apps is to make the process of finding a partner more efficient and convenient, by allowing users to easily browse through a large pool of potential partners without having to go out and socialize in person.
 
+# Objective
+
+The main objectives of the project "DateIn" are:
+
+Connect users and facilitate communication for potential partners.
+Match users based on interests, preferences, and location.
+Provide a user-friendly interface for profile creation and browsing potential matches.
+Offer features for matching and safety.
+Make the process of finding a partner more efficient and convenient.
+
 # Features:
 
 - Matching/Discovery: One of the most important features of dating apps is the ability to match users based on their interests and preferences. This feature allows users to browse through potential matches and quickly identify those that they are most likely to be compatible with. Some apps use mutual interests, shared friends, or compatibility algorithms to match users.
@@ -11,12 +21,12 @@ DateIn is a digital platform that allows users to connect and communicate and fi
 
 # Team Members:
 
-Meet Vora – 40155271
+Meet Vora (@Itsmeeeet) – 40155271
 
-James Bitharas – 26637175
+James Bitharas (@strikeyamato) – 26637175
 
-Samuel Collette – 40175048
+Samuel Collette (@Vaqint) – 40175048
 
-Brandon Dam - 40175675
+Brandon Dam (@MyWaterBottle)- 40175675
 
-Jackson Jean - 23507416
+Jackson Jean (@Jacksnj) - 23507416
